@@ -1,0 +1,107 @@
+{
+  "cabTariff": [
+    {
+      "cabType": "Indica/Ritz/Liva/Figo\n(4 seats)",
+      "fourHourPackage": "₹900",
+      "fiveHourPackage": "₹1000",
+      "eightHourPackage": "₹1800",
+      "tenHourPackage": "₹2000",
+      "twelveHourPackage": "₹2700",
+      "oneDayPackage": "₹3000",
+      "perKmCharge": "₹10/km",
+      "driverBata": "₹400"
+    },
+    {
+      "cabType": "Swift/Zest/Etios/Amaze\n(4 seats)",
+      "fourHourPackage": "₹1000",
+      "fiveHourPackage": "₹1100",
+      "eightHourPackage": "₹2000",
+      "tenHourPackage": "₹2200",
+      "twelveHourPackage": "₹3000",
+      "oneDayPackage": "₹3500",
+      "perKmCharge": "₹11/km",
+      "driverBata": "₹400"
+    },
+    {
+      "cabType": "Xylo/Tavera\n(7 seats)",
+      "fourHourPackage": "₹1200",
+      "fiveHourPackage": "₹1400",
+      "eightHourPackage": "₹2400",
+      "tenHourPackage": "₹2800",
+      "twelveHourPackage": "₹3600",
+      "oneDayPackage": "₹4000",
+      "perKmCharge": "₹14/km",
+      "driverBata": "₹600"
+    },
+    {
+      "cabType": "Toyota Innova\n(7 seats)",
+      "fourHourPackage": "₹1300",
+      "fiveHourPackage": "₹1500",
+      "eightHourPackage": "₹2600",
+      "tenHourPackage": "₹3000",
+      "twelveHourPackage": "₹3900",
+      "oneDayPackage": "₹4000",
+      "perKmCharge": "₹16/km",
+      "driverBata": "₹600"
+    },
+    {
+      "cabType": "Toyota Crysta\n(7 seats)",
+      "fourHourPackage": "₹1500",
+      "fiveHourPackage": "₹1800",
+      "eightHourPackage": "₹3000",
+      "tenHourPackage": "₹3600",
+      "twelveHourPackage": "₹4500",
+      "oneDayPackage": "₹5000",
+      "perKmCharge": "₹18/km",
+      "driverBata": "₹600"
+    },
+    {
+      "cabType": "Tempo traveller\n(12 seats)",
+      "fourHourPackage": "₹2000",
+      "fiveHourPackage": "₹2500",
+      "eightHourPackage": "₹4000",
+      "tenHourPackage": "₹5000",
+      "twelveHourPackage": "₹6000",
+      "oneDayPackage": "₹5000",
+      "perKmCharge": "₹18/km",
+      "driverBata": "₹600"
+    },
+    {
+      "cabType": "Tempo traveller\n(16 seats)",
+      "fourHourPackage": "₹2250",
+      "fiveHourPackage": "₹2750",
+      "eightHourPackage": "₹4500",
+      "tenHourPackage": "₹5500",
+      "twelveHourPackage": "₹6750",
+      "oneDayPackage": "₹5500",
+      "perKmCharge": "₹20/km",
+      "driverBata": "₹600"
+    }
+  ],
+  "driverTariff": [
+    {
+      "packageName": "Local hourly basis\n(4 hours)",
+      "minimumCharge": "₹320",
+      "additionalCharge": "₹60",
+      "allowance" : "-"
+    },
+    {
+      "packageName": "Fixed outstation places\n(6 hours)",
+      "minimumCharge": "₹550",
+      "additionalCharge": "₹60",
+      "allowance" : "₹150 or Food for driver"
+    },
+    {
+      "packageName": "Outstation(Same day return)\n(12 hours)",
+      "minimumCharge": "₹950",
+      "additionalCharge": "₹60",
+      "allowance" : "₹150 or Food for driver"
+    },
+    {
+      "packageName": "Outstation(More than a day)",
+      "minimumCharge": "₹950/day",
+      "additionalCharge": "₹60",
+      "allowance" : "₹150 or Food for driver"
+    }
+  ]
+}
